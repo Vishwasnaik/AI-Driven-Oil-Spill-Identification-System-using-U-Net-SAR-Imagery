@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+scipy
+opencv-python-headless
+streamlit
+folium
+streamlit-folium
+Pillow
